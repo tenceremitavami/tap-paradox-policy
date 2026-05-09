@@ -1,1 +1,1 @@
-# tap-paradaox-policies
+# tap-paradox-policy
